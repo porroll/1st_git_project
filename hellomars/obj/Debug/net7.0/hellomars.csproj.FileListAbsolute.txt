@@ -1,0 +1,15 @@
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/bin/Debug/net7.0/hellomars
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/bin/Debug/net7.0/hellomars.deps.json
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/bin/Debug/net7.0/hellomars.runtimeconfig.json
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/bin/Debug/net7.0/hellomars.dll
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/bin/Debug/net7.0/hellomars.pdb
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.csproj.AssemblyReference.cache
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfoInputs.cache
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfo.cs
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.csproj.CoreCompileInputs.cache
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.dll
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/refint/hellomars.dll
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.pdb
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/hellomars.genruntimeconfig.cache
+/Users/pstewart/Dev_Code/1st_git_project/hellomars/obj/Debug/net7.0/ref/hellomars.dll
